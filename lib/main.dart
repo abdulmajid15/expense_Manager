@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Personal Expenses',
+      title: 'Expense Manager',
       theme: ThemeData(
           primarySwatch: Colors.teal,
           accentColor: Colors.amber,
